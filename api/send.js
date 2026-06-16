@@ -29,7 +29,7 @@ export default async function handler(req, res) {
               Thank you for signing up! Here is your free TradingView indicator from <strong style="color:#fff;">Orzen Labs</strong>.
             </p>
             <p style="color:#aaa;line-height:1.7;margin-bottom:1.5rem;">
-              [ https://drive.google.com/drive/folders/16xNzKtyTAbTxCwYCZhWEHb0t9QWzB4Ud?usp=sharing ]
+              <a href="https://drive.google.com/drive/folders/16xNzKtyTAbTxCwYCZhWEHb0t9QWzB4Ud?usp=sharing" style="color:#7c83ff;">Click here to download your free indicator</a>
             </p>
             <p style="color:#555;font-size:0.85em;">— Orzen Labs</p>
           </div>
