@@ -56,7 +56,7 @@ export default async function handler(req, res) {
                 <h3 style="color:#ffffff;margin:0 0 1rem 0;font-size:1.1em;">What's Next?</h3>
                 <ol style="color:#aaa;line-height:2;margin:0;padding-left:1.5rem;">
                   <li>Click the button above to join Discord</li>
-                  <li>Go to the <strong style="color:#fff;">#free-files</strong> channel</li>
+                  <li>Go to the <strong style="color:#fff;">#⛓️‍💥・free-indicator</strong> channel</li>
                   <li>Download your free TradingView indicator</li>
                   <li>Start trading with confidence! 📈</li>
                 </ol>
